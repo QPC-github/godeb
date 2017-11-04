@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/blakesmith/ar
+- package: gopkg.in/xmlpath.v1
+testImport:
+- package: launchpad.net/gocheck

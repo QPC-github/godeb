@@ -1,0 +1,10 @@
+hash: f3bd5927273c1f268a5e2c87678190f86ceb5f8913f2a4c380c5b16bb3fa4da4
+updated: 2017-11-03T21:07:05.852743-04:00
+imports:
+- name: github.com/blakesmith/ar
+  version: 8bd4349a67f2533b078dbc524689d15dba0f4659
+- name: gopkg.in/xmlpath.v1
+  version: a146725ea6e7e357ca683ef3e02e8a403742b9c0
+testImports:
+- name: launchpad.net/gocheck
+  version: "87"
